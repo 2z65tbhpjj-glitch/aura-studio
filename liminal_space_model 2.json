@@ -1,0 +1,27 @@
+{
+  "auraModelVersion": 1,
+  "uuid": "b1ba25eb-3a78-4d55-99ff-1a18d887b256",
+  "type": "image",
+  "name": "liminal space",
+  "triggerWord": "liminal space",
+  "dataset": [
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/361f2eb4-6f87-4778-abfe-f64899e7110a.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/07d1c8b9-d5bd-4d0b-8c65-ab09e27cd99c.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/e4fbe1bd-f5d1-410f-a4b6-52582b9d35b1.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/aca7f1e0-af77-4140-a6b0-a65554a33001.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/38b79567-756c-4428-a4ef-b4a806781351.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/e147e7b8-7ee5-4ad2-8a64-be0c8ae84e43.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/e4b5e5e5-4dbe-47d7-98c1-85e4e7f2d18d.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/ae420da0-78e8-4f51-ae65-e803c93005e5.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/5ceb8179-18b2-4e27-b1ce-f2f6fa7c7421.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/ee1da173-09c0-4e38-8c03-321f3ad3072f.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/6b84077d-ee1e-40cf-9779-3cca1295a32e.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/a7ea16a6-c58b-4e4f-9727-9bf1052dc951.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/c4a984f8-3f11-43bb-9648-3bf0e4312b02.jpeg",
+    "https://prod-data.sekai.chat/v3-games/dist/d908bf38-3ea8-4d04-8f43-55dc8ce3b241/images/11f1013b-a4a6-4712-8dc4-aec2faf6fb50.png"
+  ],
+  "styleDescription": "liminal, mundane, nostalgic, fluorescent, interior, amateur, dated, beige, quiet, stillness, grainy, eerie",
+  "instructions": "",
+  "creatorId": "guest-creator",
+  "signature": "sig-4835de90-gues"
+}
